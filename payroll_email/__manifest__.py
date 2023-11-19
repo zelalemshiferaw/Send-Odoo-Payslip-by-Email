@@ -1,6 +1,6 @@
 {
     'name': 'Payroll Email/Mass E-mail',
-    'description': 'Send payslip through Emailll.',
+    'description': 'Send payslip through Email.',
     'category': 'Generic Modules/Human Resources',
     'depends': ['base', 'hr_payroll', 'mail', 'hr'],
     'data': [
